@@ -1,5 +1,3 @@
-### Hi 👋
-
 <!--START_SECTION:waka-->
 
 ```text
