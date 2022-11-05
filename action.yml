@@ -12,5 +12,5 @@ jobs:
     steps:
       - uses: mikhael7/mikhael7@main
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          WAKATIME_API_KEY: ${{ default.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ default.GH_TOKEN }}
