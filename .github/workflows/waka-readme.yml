@@ -17,5 +17,5 @@ jobs:
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
-          BLOCKS: ->
+          #BLOCKS: ->
           #GH_TOKEN: ${{ secrets.GH_TOKEN }}
