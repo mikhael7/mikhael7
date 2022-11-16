@@ -1,16 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 September 2022 - To: 13 November 2022
+From: 15 September 2022 - To: 14 November 2022
 
-Total Time: 224 hrs 37 mins
+Total Time: 226 hrs
 
-JavaScript       79 hrs 50 mins  █████████░░░░░░░░░░░░░░░░   35.54 %
-TypeScript       28 hrs 2 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.48 %
-CSS              21 hrs 11 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
-Blade Template   20 hrs 46 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 %
-Svelte           15 hrs 55 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
-HTML             14 hrs 16 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+JavaScript       79 hrs 50 mins  ████████▓░░░░░░░░░░░░░░░░   35.33 %
+TypeScript       28 hrs 2 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.41 %
+CSS              21 hrs 11 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
+Blade Template   21 hrs 10 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
+Svelte           15 hrs 55 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
+JSON             14 hrs 28 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
 ```
 
 <!--END_SECTION:waka-->
