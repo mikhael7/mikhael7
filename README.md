@@ -18,24 +18,24 @@ HTML             20 hrs 16 mins  ██░░░░░░░░░░░░░�
 
 <picture>
 <source 
-  srcset="https://wakatime-readme-stats-mikhael7.vercel.app/api/?username=mikhael7&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&layout=compact&theme=rose_pine"
+  srcset="https://github-readme-stats-six-psi-19.vercel.app/api/?username=mikhael7&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&layout=compact&theme=rose_pine"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://wakatime-readme-stats-mikhael7.vercel.app/api/?username=mikhael7&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&layout=compact&theme=graywhite"
+  srcset="https://github-readme-stats-six-psi-19.vercel.app/api/?username=mikhael7&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&layout=compact&theme=graywhite"
   media="(prefers-color-scheme: light)"
 />
-<img src="https://wakatime-readme-stats-mikhael7.vercel.app/api/?username=mikhael7&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&layout=compact&theme=graywhite" />
+<img src="https://github-readme-stats-six-psi-19.vercel.app/api/?username=mikhael7&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&layout=compact&theme=graywhite" />
 </picture>
 
 <picture>
 <source
-  srcset="https://wakatime-readme-stats-mikhael7.vercel.app/api/top-langs/?username=mikhael7&langs_count=6&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&layout=compact&theme=rose_pine"
+  srcset="https://github-readme-stats-six-psi-19.vercel.app/api/top-langs/?username=mikhael7&langs_count=6&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&layout=compact&theme=rose_pine"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://wakatime-readme-stats-mikhael7.vercel.app/api/top-langs/?username=mikhael7&langs_count=6&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&layout=compact&theme=graywhite"
+  srcset="https://github-readme-stats-six-psi-19.vercel.app/api/top-langs/?username=mikhael7&langs_count=6&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&layout=compact&theme=graywhite"
   media="(prefers-color-scheme: light)"
 />
-<img src="https://wakatime-readme-stats-mikhael7.vercel.app/api/top-langs/?username=mikhael7&langs_count=6&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&layout=compact&theme=graywhite" />
+<img src="https://github-readme-stats-six-psi-19.vercel.app/api/top-langs/?username=mikhael7&langs_count=6&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&layout=compact&theme=graywhite" />
 </picture>
