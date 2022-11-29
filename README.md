@@ -24,7 +24,7 @@ HTML             20 hrs 16 mins  ██░░░░░░░░░░░░░�
   srcset="https://github-readme-stats.vercel.app/api/top-langs/? username=mikhael7&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&layout=compact&theme=graywhite"
   media="(prefers-color-scheme: light)"
 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikhael7&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&layout=compact&theme=rose_pine" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikhael7&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&layout=compact&theme=graywhite" />
 </picture>
 
 <!--
