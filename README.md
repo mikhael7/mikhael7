@@ -15,6 +15,7 @@ HTML             20 hrs 16 mins  ██░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+<div style="display:grid;grid-template-columns: 1fr 2fr 1fr;">
 <picture>
 <source 
   srcset="https://wakatime-readme-stats.vercel.app//api/?username=mikhael7&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&layout=compact&theme=rose_pine"
@@ -38,3 +39,4 @@ HTML             20 hrs 16 mins  ██░░░░░░░░░░░░░�
 />
 <img src="https://wakatime-readme-stats.vercel.app/api/top-langs/?username=mikhael7&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&layout=compact&theme=graywhite" />
 </picture>
+  </div>
