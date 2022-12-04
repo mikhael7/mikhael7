@@ -25,7 +25,7 @@ HTML             21 hrs 30 mins  ██░░░░░░░░░░░░░�
   srcset="https://github-readme-stats-six-psi-19.vercel.app/api/?username=mikhael7&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&layout=compact&theme=graywhite"
   media="(prefers-color-scheme: light)"
 />
-<img src="https://github-readme-stats-six-psi-19.vercel.app/api/?username=mikhael7&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&layout=compact&theme=rose_pine" />
+<img align="center" src="https://github-readme-stats-six-psi-19.vercel.app/api/?username=mikhael7&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&layout=compact&theme=rose_pine" />
 </picture>
 
 <picture>
@@ -37,5 +37,5 @@ HTML             21 hrs 30 mins  ██░░░░░░░░░░░░░�
   srcset="https://github-readme-stats-six-psi-19.vercel.app/api/top-langs/?username=mikhael7&langs_count=6&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&layout=compact&theme=graywhite"
   media="(prefers-color-scheme: light)"
 />
-<img src="https://github-readme-stats-six-psi-19.vercel.app/api/top-langs/?username=mikhael7&langs_count=6&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&layout=compact&theme=rose_pine" />
+<img align="center" src="https://github-readme-stats-six-psi-19.vercel.app/api/top-langs/?username=mikhael7&langs_count=6&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&layout=compact&theme=rose_pine" />
 </picture>
