@@ -1,16 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 September 2022 - To: 16 January 2023
+From: 15 September 2022 - To: 17 January 2023
 
-Total Time: 376 hrs 6 mins
+Total Time: 382 hrs 58 mins
 
-JavaScript        112 hrs 38 mins ███████▒░░░░░░░░░░░░░░░░░   29.95 %
-CSS               40 hrs 26 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
-HTML              34 hrs 18 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
-TypeScript        31 hrs 53 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
-Blade Template    30 hrs 30 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
-SCSS              28 hrs 38 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+JavaScript        115 hrs 21 mins ███████▓░░░░░░░░░░░░░░░░░   30.12 %
+CSS               42 hrs 18 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 %
+HTML              34 hrs 32 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
+TypeScript        32 hrs 47 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
+Blade Template    30 hrs 30 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
+SCSS              28 hrs 38 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
 ```
 
 <!--END_SECTION:waka-->
