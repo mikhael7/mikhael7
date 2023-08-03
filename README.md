@@ -22,15 +22,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 September 2022 - To: 31 July 2023
+From: 15 September 2022 - To: 01 August 2023
 
-Total Time: 948 hrs 30 mins
+Total Time: 954 hrs 38 mins
 
-JavaScript        447 hrs 36 mins ███████████▓░░░░░░░░░░░░░   47.19 %
-TypeScript        125 hrs 16 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.21 %
-CSS               65 hrs 25 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
-JSON              53 hrs 5 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
-SCSS              48 hrs 36 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+JavaScript        453 hrs 40 mins ████████████░░░░░░░░░░░░░   47.52 %
+TypeScript        125 hrs 16 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.12 %
+CSS               65 hrs 29 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
+JSON              53 hrs 5 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+SCSS              48 hrs 36 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
 ```
 
 <!--END_SECTION:waka-->
